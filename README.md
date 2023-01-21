@@ -1,3 +1,3 @@
-# Work on Google Colab
+# Home Work 3 && 6
 
-https://colab.research.google.com/drive/1gWY_GWtPnzK07bGuBJ7yDg20H3pt1T3V?usp=sharing
+6th homework at the end of the file
